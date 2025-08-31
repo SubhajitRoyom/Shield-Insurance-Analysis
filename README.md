@@ -72,5 +72,9 @@ The dashboard is divided into three pages:
 
 ---
 
+## Live Dashboard: *[https://app.powerbi.com/view?r=eyJrIjoiODVhNDVmNDItOWE5NC00ZDU0LWI2NzQtYzgyNmJjYWY0YTc2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9]*
+
+---
+
 ## 📬 Contact   
 🔗 LinkedIn: *[https://www.linkedin.com/in/subhajit-roy-9a0672314/]*  
