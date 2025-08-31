@@ -73,7 +73,7 @@ The dashboard is divided into three pages:
 ---
 
 ## Live Dashboard
-   [Live Report]([https://app.powerbi.com/view?r=eyJrIjoiODVhNDVmNDItOWE5NC00ZDU0LWI2NzQtYzgyNmJjYWY0YTc2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9])
+* [Live Report]([https://app.powerbi.com/view?r=eyJrIjoiODVhNDVmNDItOWE5NC00ZDU0LWI2NzQtYzgyNmJjYWY0YTc2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9])
 
 ---
 
