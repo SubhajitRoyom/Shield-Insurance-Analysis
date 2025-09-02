@@ -77,5 +77,10 @@ The dashboard is divided into three pages:
 
 ---
 
+## LinkedIn post
+*[post](https://www.linkedin.com/feed/update/urn:li:activity:7368538631143096322/)
+
+---
+
 ## 📬 Contact   
 🔗 LinkedIn: *[https://www.linkedin.com/in/subhajit-roy-9a0672314/]*  
