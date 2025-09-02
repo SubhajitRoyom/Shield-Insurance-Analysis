@@ -78,7 +78,7 @@ The dashboard is divided into three pages:
 ---
 
 ## LinkedIn post
- [Post](https://www.linkedin.com/feed/update/urn:li:activity:7368538631143096322/)
+. [Post](https://www.linkedin.com/feed/update/urn:li:activity:7368538631143096322/)
 
 ---
 
