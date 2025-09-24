@@ -84,5 +84,4 @@ The dashboard is divided into three pages:
 
 ## 📬 Contact   
 🔗 LinkedIn: *[https://www.linkedin.com/in/subhajitroy003/]*
-🔗 Mail: *[subhojitroy003@gmail.com]*
 
